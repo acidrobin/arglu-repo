@@ -7,8 +7,11 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 
 ## Corpora
-[Corpus Dataset](https://docs.google.com/spreadsheets/d/1Wr7GalgRuXq_9JeVqqHRUY4BbUXbh3csB-BHozUm9YU/edit?usp=drive_link)
+[Corpora spreadsheet](https://docs.google.com/spreadsheets/d/1Wr7GalgRuXq_9JeVqqHRUY4BbUXbh3csB-BHozUm9YU/edit?usp=drive_link)
 
+[Argcorp (corpus download tool)](https://github.com/acidrobin/argcorp)
+
+## 
 
 ## Tools
 ### Argument Visualisation Tools
