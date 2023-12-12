@@ -1,6 +1,6 @@
 # Argumentative Language Utilities Hub
 
-<img src="https://www.i.imgur.com/DdoGdOt.png" width="100" >
+<img src="(https://github.com/acidrobin/arglu-repo/assets/54273015/70f853be-ba2e-4b6b-b5cf-6b6fb523a9bd" width="100" >
 The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources from the field of Argument Mining. 
 
 
