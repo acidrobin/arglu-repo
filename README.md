@@ -8,7 +8,10 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 [Argcorp (corpus download tool)](https://github.com/acidrobin/argcorp)
 
+## Challenges
 
+
+[Key Point Analysis Shared Task](https://github.com/IBM/KPA_2021_shared_task (2021)
 
 
 ### Existing Corpus Collections
