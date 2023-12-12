@@ -43,7 +43,7 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 [Margot](http://margot.disi.unibo.it/) 
 
 ## LLM Training 
-[ReCAP Argument Graph Mining](https://github.com/recap-utr/argument-graph-mining)
+[ReCAP Argument Graph Mining](https://github.com/recap-utr/argument-graph-mining) (2020)
 
 
 ## Challenges
