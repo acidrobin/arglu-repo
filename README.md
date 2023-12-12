@@ -22,15 +22,6 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 [IBM Debater datasets](https://research.ibm.com/haifa/dept/vst/debating_data.shtml)
 
 
-## LLM Training Repositories
-
-[Using Fill-Mask Language Model Probabilities of Connectives for Stance Detecion](https://github.com/rstodden/stance-detection) (2023)
-
-[Argument Relation Mining](https://github.com/raruidol/ArgumentRelationMining) (2021)
-
-[ReCAP Argument Graph Mining](https://github.com/recap-utr/argument-graph-mining) (2020)
-
-
 ## Tools
 ### Argument Visualisation Tools
 [OVA](https://ova.arg-tech.org) (Online Visualisation of Argument analysis tool)
@@ -49,6 +40,17 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 ### Automatic Argument Annotation Tools
 [Margot](http://margot.disi.unibo.it/) 
+
+
+
+## LLM Training Repositories
+
+[Using Fill-Mask Language Model Probabilities of Connectives for Stance Detecion](https://github.com/rstodden/stance-detection) (2023)
+
+[Argument Relation Mining](https://github.com/raruidol/ArgumentRelationMining) (2021)
+
+[ReCAP Argument Graph Mining](https://github.com/recap-utr/argument-graph-mining) (2020)
+
 
 
 ## Challenges
