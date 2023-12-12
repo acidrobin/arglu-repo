@@ -19,6 +19,7 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 [AIFDB corpora](http://corpora.aifdb.org)
 
+[IBM Debater datasets](https://research.ibm.com/haifa/dept/vst/debating_data.shtml)
 
 ## 
 
