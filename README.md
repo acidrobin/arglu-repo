@@ -23,6 +23,9 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 
 ## LLM Training Repositories
+
+[Using Fill-Mask Language Model Probabilities of Connectives for Stance Detecion](https://github.com/rstodden/stance-detection) (2023)
+
 [Argument Relation Mining](https://github.com/raruidol/ArgumentRelationMining) (2021)
 
 [ReCAP Argument Graph Mining](https://github.com/recap-utr/argument-graph-mining) (2020)
