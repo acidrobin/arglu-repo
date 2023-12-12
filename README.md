@@ -64,4 +64,4 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 ## Workshops
 
-[ArgKG workshop](https://argkg21.argmining.org/) (Workshop on Argumentative Knowledge Graphs)
+[ArgKG workshop 2021](https://argkg21.argmining.org/) (Workshop on Argumentative Knowledge Graphs)
