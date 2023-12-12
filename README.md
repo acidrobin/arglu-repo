@@ -42,7 +42,7 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 ### Automatic Argument Annotation Tools
 [Margot](http://margot.disi.unibo.it/) 
 
-## Argument Challenges
+## Challenges
 
 ## Leaderboards
 
