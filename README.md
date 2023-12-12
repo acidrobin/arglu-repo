@@ -13,6 +13,7 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 ## Tools
 ### Argument Search Engines
 
+[Perspectroscope](https://github.com/CogComp/perspectroscope?tab=readme-ov-file)
 
 ## Leaderboards
 
