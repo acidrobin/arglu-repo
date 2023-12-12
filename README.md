@@ -8,12 +8,6 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 [Argcorp (corpus download tool)](https://github.com/acidrobin/argcorp)
 
-## Challenges
-
-
-[Key Point Analysis Shared Task](https://github.com/IBM/KPA_2021_shared_task) (2021)
-
-
 ### Existing Corpus Collections
 
 [Resources collated by the University of Bologna](http://argumentationmining.disi.unibo.it/resources.html)
@@ -23,6 +17,14 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 [AIFDB corpora](http://corpora.aifdb.org)
 
 [IBM Debater datasets](https://research.ibm.com/haifa/dept/vst/debating_data.shtml)
+
+
+
+## Challenges
+
+
+[Key Point Analysis Shared Task](https://github.com/IBM/KPA_2021_shared_task) (2021)
+
 
 
 ## Tools
