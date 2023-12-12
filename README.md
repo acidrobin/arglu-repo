@@ -1,5 +1,5 @@
 # Argumentative Language Utilities Hub
-![ARGLU](https://drive.google.com/file/d/1M_IuXEHzHa2mADn02xoD1ffjGHI9rYAd/view)
+![ARGLU](https://drive.google.com/file/d/1M_IuXEHzHa2mADn02xoD1ffjGHI9rYAd)
 The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources from the field of Argument Mining. 
 
 
