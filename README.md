@@ -33,6 +33,8 @@ The Argumentative Language Utilities Hub, or ARGLU Hub, aims to collate resource
 ### Argument Visualisation Tools
 [OVA](https://ova.arg-tech.org) (Online Visualisation of Argument analysis tool)
 
+[Araucaria](http://araucaria.arg.tech/doku.php#download) (Argument Visualisation Software)
+
 [Argdown](https://argdown.org/) (markdown for displaying argument graphs)
 
 [ARGLU](https://github.com/acidrobin/arglu) (Tools for visualising argument graphs and converting between graph formats)
