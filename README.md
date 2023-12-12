@@ -1,5 +1,6 @@
 # Argumentative Language Utilities Hub
-![ARGLU](i.imgur.com/DdoGdOt.png)
+
+<img src="i.imgur.com/DdoGdOt.png" width="100" >
 The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources from the field of Argument Mining. 
 
 
