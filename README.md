@@ -60,8 +60,4 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 
 
-## Challenges
-
-## Leaderboards
-
 ## Workshops
