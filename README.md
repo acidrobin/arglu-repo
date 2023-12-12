@@ -21,7 +21,9 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 [IBM Debater datasets](https://research.ibm.com/haifa/dept/vst/debating_data.shtml)
 
-## 
+
+## LLM Training Repositories
+[ReCAP Argument Graph Mining](https://github.com/recap-utr/argument-graph-mining) (2020)
 
 ## Tools
 ### Argument Visualisation Tools
@@ -41,9 +43,6 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 ### Automatic Argument Annotation Tools
 [Margot](http://margot.disi.unibo.it/) 
-
-## LLM Training Repositories
-[ReCAP Argument Graph Mining](https://github.com/recap-utr/argument-graph-mining) (2020)
 
 
 ## Challenges
