@@ -31,6 +31,8 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 [args.me](https://args.me/index.html)
 
+[AIFDB search](https://www.aifdb.org/search)
+
 ### Automatic Argument Annotation Tools
 [Margot](http://margot.disi.unibo.it/) 
 
