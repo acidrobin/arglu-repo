@@ -12,7 +12,7 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 ## Tools
 ### Argument Visualisation Tools
-[OVA](https://ova.arg-tech.org) 
+[OVA](https://ova.arg-tech.org) (Online Visualisation of Argument analysis tool)
 
 ### Argument Search Engines
 
