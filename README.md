@@ -23,6 +23,8 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 ## Challenges/ Shared Tasks
 [PragTag-2023](https://codalab.lisn.upsaclay.fr/competitions/13334) (2023)
 
+[ArgMining 2022 Shared Task (Predicting the Validity and Novelty of Arguments](https://phhei.github.io/ArgsValidNovel) (2022)
+
 [Key Point Analysis Shared Task](https://github.com/IBM/KPA_2021_shared_task) (2021)
 
 
