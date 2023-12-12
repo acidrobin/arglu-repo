@@ -11,7 +11,7 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 ## Challenges
 
 
-[Key Point Analysis Shared Task](https://github.com/IBM/KPA_2021_shared_task (2021)
+[Key Point Analysis Shared Task](https://github.com/IBM/KPA_2021_shared_task) (2021)
 
 
 ### Existing Corpus Collections
