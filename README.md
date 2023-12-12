@@ -4,6 +4,7 @@
 The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources from the field of Argument Mining. 
 
 
+![arglu_small](https://github.com/acidrobin/arglu-repo/assets/54273015/67999eb8-7742-4d63-b4b7-e2ad0bee45b1)
 
 
 ## Corpora
