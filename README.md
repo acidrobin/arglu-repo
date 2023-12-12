@@ -15,7 +15,11 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 
 [Resources collated by the University of Bologna](http://argumentationmining.disi.unibo.it/resources.html)
 
+[University of Darmstadt's Corpora](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/1997)
+
 [AIFDB corpora](http://corpora.aifdb.org)
+
+
 ## 
 
 ## Tools
