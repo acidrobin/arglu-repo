@@ -31,6 +31,8 @@ The Argumentative Language Utilities Hub, or ARGLU, aims to collate resources fr
 [args.me](https://args.me/index.html)
 
 
+## Argument Challenges
+
 ## Leaderboards
 
 ## Workshops
